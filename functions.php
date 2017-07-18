@@ -1,11 +1,11 @@
 <?php 
 /*
 Plugin Name: Simple Expire Link
-Plugin URI: no link
+Plugin URI: https://github.com/domondon1/Simple-Expire-Link
 Description: SIMPLE Expire link for wordpress 
 Version: 1
 Author: Roderick c. Domondon
-Author URI: no link
+Author URI: https://github.com/domondon1/
 */
 
 add_shortcode('btn_link', 'simple_expr_link');
