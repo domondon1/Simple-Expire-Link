@@ -8,6 +8,7 @@ example :
 [btn_link class="btn" name="Click Me!" link="www.google.com"]
 
 output :
-<a href="/getlink.php?link=google.com" class="btn" title="Click Me!">Click Me!</a>
+
+[code]<a href="/getlink.php?link=google.com" class="btn" title="Click Me!">Click Me!</a>[/code]
 
 if you want to edit the expire time go to the file getlink.php line 4 edit the "+60 seconds"
